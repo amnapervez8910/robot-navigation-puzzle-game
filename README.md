@@ -85,6 +85,3 @@ robot-navigation-puzzle/
 
 ---
 
-## 👨‍💻 Author
-
-**Amna Pervez**
