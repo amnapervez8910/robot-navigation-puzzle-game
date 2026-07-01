@@ -1,4 +1,4 @@
-# 🤖 Robot Navigation Puzle Game
+# 🤖 Robot Navigation Puzzle Game
 
 An interactive **pathfinding visualization** project developed in **Python** using **Tkinter**.
 This application demonstrates how robots navigate through obstacles using **BFS** and **DFS** algorithms.
